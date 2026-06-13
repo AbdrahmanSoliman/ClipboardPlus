@@ -85,6 +85,3 @@ Pull requests are welcome! If you have suggestions or improvements, feel free to
 
 ## Support
 Need help? Contact: abdelrahmann.soliman@gmail.com
-
-If you find this tool helpful, consider supporting me:
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abdelrahmansoliman)
